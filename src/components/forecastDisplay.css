@@ -1,0 +1,6 @@
+
+.forecastDisplay{
+    display: flex;
+  overflow: auto;
+  white-space: nowrap;
+}

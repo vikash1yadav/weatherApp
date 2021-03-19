@@ -1,0 +1,54 @@
+.weather{
+    position: relative;
+    /* width: 580px; */
+    margin: 30px auto 20px auto;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgb(138, 137, 137);
+  
+}
+.title{
+  font-size: x-large;
+  font-weight: 800;
+}
+.searchInput{
+    position: relative;
+    
+    margin: 10px 10px ;
+  
+  background-color: #ffffff;
+  font-size: 16px;
+  padding: 10px 15px 10px 40px;
+  color: #c5c5c5;
+  /* transition: 0.2s; */
+  border-radius: 20px;
+  border: none;
+  /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); */
+  }
+
+  
+
+.search button {
+    /* position: absolute;
+    right: 18px;
+    bottom: 10px; */
+    background: #f5ba13;
+    border: none;
+    border-radius: 30px;
+    width: 60px;
+    height: 40px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+  }
+
+  .search select {
+    
+    border-radius: 30px;
+    
+    height: 40px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+  }
